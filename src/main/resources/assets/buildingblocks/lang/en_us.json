@@ -1,0 +1,61 @@
+{
+
+    "itemGroup.buildingblocks.general": "Tzeentchs Blocks",
+    "block.buildingblocks.vertical_stone_slab": "Horizontal Faced Stone Slab",
+    "block.buildingblocks.vertical_cobblestone_slab": "Horizontal Faced Cobblestone Slab",
+    "block.buildingblocks.vertical_oak_plank_slab": "Horizontal Faced Oak Plank Slab",
+    "block.buildingblocks.vertical_spruce_plank_slab": "Horizontal Faced Spruce Plank Slab",
+    "block.buildingblocks.vertical_jungle_plank_slab": "Horizontal Faced Jungle Plank Slab",
+    "block.buildingblocks.vertical_birch_plank_slab": "Horizontal Faced Birch Plank Slab",
+
+    "block.buildingblocks.dark_blue_concrete": "Dark Blue Concrete",
+    "item.buildingblocks.dark_blue_concrete": "Dark Blue Concrete",
+
+    "block.buildingblocks.dark_blue_concrete_powder": "Dark Blue Concrete Powder",
+    "item.buildingblocks.dark_blue_concrete_powder": "Dark Blue Concrete Powder",
+
+
+    "block.buildingblocks.grape_concrete": "Grape Concrete",
+    "item.buildingblocks.grape_concrete": "Grape Concrete Powder",
+
+    "item.buildingblocks.grape_concrete_powder": "Grape Concrete Powder",
+    "block.buildingblocks.grape_concrete_powder": "Grape Concrete Powder",
+
+
+    "block.buildingblocks.merlot_concrete": "Merlot Concrete",
+    "item.buildingblocks.merlot_concrete": "Merlot Concrete Powder",
+    
+    "block.buildingblocks.merlot_concrete_powder": "Merlot Concrete Powder",
+    "item.buildingblocks.merlot_concrete_powder": "Merlot Concrete Powder",
+
+
+    "block.buildingblocks.mormalade_concrete": "Mormalade Concrete",
+    "item.buildingblocks.mormalade_concrete": "Mormalade Concrete",
+
+    "block.buildingblocks.mormalade_concrete_powder": "Mormalade Concrete Powder",
+    "item.buildingblocks.mormalade_concrete_powder": "Mormalade Concrete Powder",
+
+    "block.buildingblocks.olive_concrete": "Olive Concrete",
+    "item.buildingblocks.olive_concrete": "Olive Concrete",
+
+    "block.buildingblocks.olive_concrete_powder": "Olive Concrete Powder",
+    "item.buildingblocks.olive_concrete_powder": "Olive Concrete Powder",
+
+    "block.buildingblocks.punch_concrete": "Punch Concrete",
+    "item.buildingblocks.punch_concrete": "Punch Concrete ",
+
+    "block.buildingblocks.punch_concrete_powder": "Punch Concrete Powder",
+    "item.buildingblocks.punch_concrete_powder": "Punch Concrete Powder",
+
+    "block.buildingblocks.violet_concrete": "Violet Concrete",
+    "item.buildingblocks.violet_concrete": "Violet Concrete ",
+
+    "block.buildingblocks.violet_concrete_powder": "Violet Concrete Powder",
+    "item.buildingblocks.violet_concrete_powder": "Violet Concrete Powder",
+
+    "block.buildingblocks.decorative_furnace": "Decorative Furnace",
+    "item.buildingblocks.decorative_furnace": "Decorative Furnace",
+
+    "block.buildingblocks.blast_decorative_furnace": "Decorative Blast Furnace",
+    "item.buildingblocks.blast_decorative_furnace": "Decorative Blast Furnace"
+}
