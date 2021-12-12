@@ -1,0 +1,9 @@
+{
+  "parent": "buildingblocks:block/orientable",
+  "textures": {
+    "top": "buildingblocks:block/smoker_top",
+    "front": "buildingblocks:block/smoker_front",
+    "side": "buildingblocks:block/smoker_side",
+    "bottom": "buildingblocks:block/smoker_bottom"
+  }
+}

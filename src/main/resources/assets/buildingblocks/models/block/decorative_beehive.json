@@ -1,0 +1,8 @@
+{
+  "parent": "buildingblocks:block/orientable",
+  "textures": {
+    "front": "buildingblocks:block/beehive_front",
+    "side": "buildingblocks:block/beehive_side",
+    "top": "buildingblocks:block/beehive_end"
+  }
+}

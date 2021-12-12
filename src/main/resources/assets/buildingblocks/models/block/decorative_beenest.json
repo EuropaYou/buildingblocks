@@ -1,0 +1,9 @@
+{
+  "parent": "buildingblocks:block/orientable",
+  "textures": {
+    "front": "buildingblocks:block/bee_nest_front",
+    "side": "buildingblocks:block/bee_nest_side",
+    "top": "buildingblocks:block/bee_nest_top",
+    "bottom": "buildingblocks:block/bee_nest_bottom"
+  }
+}
