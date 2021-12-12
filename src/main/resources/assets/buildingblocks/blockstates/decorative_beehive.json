@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=east": {
+      "model": "buildingblocks:block/decorative_beehive",
+      "y": 90
+    },
+    "facing=north": {
+      "model": "buildingblocks:block/decorative_beehive"
+    },
+    "facing=south": {
+      "model": "buildingblocks:block/decorative_beehive",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "buildingblocks:block/decorative_beehive",
+      "y": 270
+    }
+  }
+}

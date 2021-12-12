@@ -57,5 +57,8 @@
     "item.buildingblocks.decorative_furnace": "Decorative Furnace",
 
     "block.buildingblocks.blast_decorative_furnace": "Decorative Blast Furnace",
-    "item.buildingblocks.blast_decorative_furnace": "Decorative Blast Furnace"
+    "item.buildingblocks.blast_decorative_furnace": "Decorative Blast Furnace",
+
+    "block.buildingblocks.decorative_dispenser": "Decorative Dispenser",
+    "item.buildingblocks.decorative_dispenser": "Decorative Dispenser"
 }

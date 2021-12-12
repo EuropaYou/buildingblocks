@@ -1,6 +1,5 @@
 package com.europayou.buildingblocks.decoratives;
 
-
 import net.fabricmc.fabric.api.object.builder.v1.block.FabricBlockSettings;
 import net.fabricmc.fabric.api.tool.attribute.v1.FabricToolTags;
 import net.minecraft.block.Block;
@@ -12,11 +11,10 @@ import net.minecraft.sound.BlockSoundGroup;
 import net.minecraft.state.StateManager;
 import net.minecraft.state.property.Properties;
 
-public class decorative_dispenser extends HorizontalFacingBlock{
-    public decorative_dispenser() {
-        super(FabricBlockSettings.of(Material.STONE).sounds(BlockSoundGroup.STONE).strength(3.5f, 3.5f).breakByTool(FabricToolTags.PICKAXES,1).breakByHand(false));
+public class decorative_beenest extends HorizontalFacingBlock {
+    public decorative_beenest() {
+        super(FabricBlockSettings.of(Material.WOOD).sounds(BlockSoundGroup.WOOD).strength(0.3f, 0.3f).breakByTool(FabricToolTags.AXES,1).breakByHand(false));
     }
-
     @Override
     protected void appendProperties(StateManager.Builder<Block, BlockState> stateManager) {
         stateManager.add(Properties.HORIZONTAL_FACING);

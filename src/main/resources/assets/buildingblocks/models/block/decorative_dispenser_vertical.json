@@ -1,0 +1,8 @@
+{
+  "parent": "buildingblocks:block/orientable",
+  "textures": {
+    "top": "buildingblocks:block/decorative_furnace_top",
+    "front": "buildingblocks:block/decorative_dispenser_front",
+    "side": "buildingblocks:block/decorative_furnace_side"
+  }
+}
