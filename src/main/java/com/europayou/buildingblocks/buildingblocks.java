@@ -47,6 +47,8 @@ public class buildingblocks implements ModInitializer {
 	public static final Block DECORATIVE_SMOKER = new decorative_smoker();
 	public static final Block DECORATIVE_BEENEST = new decorative_beenest();
 	public static final Block DECORATIVE_BEEHIVE = new decorative_beehive();
+	public static final Block DECORATIVE_OBSERVER = new decorative_observer();
+	public static final Block DECORATIVE_DROPPER = new decorative_dropper();
 
 	//public static final Block DECORATIVE_DISPENSER = new decorative_dispenser();
 	@Override
@@ -110,5 +112,9 @@ public class buildingblocks implements ModInitializer {
 		Registry.register(Registry.ITEM, new Identifier(id, "decorative_beehive"), new BlockItem(DECORATIVE_BEEHIVE, new Item.Settings().group(ITEM_GROUP)));
 		Registry.register(Registry.BLOCK, new Identifier(id, "decorative_beenest"), DECORATIVE_BEENEST);
 		Registry.register(Registry.ITEM, new Identifier(id, "decorative_beenest"), new BlockItem(DECORATIVE_BEENEST, new Item.Settings().group(ITEM_GROUP)));
+		Registry.register(Registry.BLOCK, new Identifier(id, "decorative_observer"), DECORATIVE_OBSERVER);
+		Registry.register(Registry.ITEM, new Identifier(id, "decorative_observer"), new BlockItem(DECORATIVE_OBSERVER, new Item.Settings().group(ITEM_GROUP)));
+		Registry.register(Registry.BLOCK, new Identifier(id, "decorative_dropper"), DECORATIVE_DROPPER);
+		Registry.register(Registry.ITEM, new Identifier(id, "decorative_dropper"), new BlockItem(DECORATIVE_DROPPER, new Item.Settings().group(ITEM_GROUP)));
 	}
 }

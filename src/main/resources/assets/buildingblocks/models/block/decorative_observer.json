@@ -1,0 +1,9 @@
+{
+  "parent": "buildingblocks:block/orientable",
+  "textures": {
+    "side": "minecraft:block/observer_side",
+    "top": "minecraft:block/observer_top",
+    "front": "minecraft:block/observer_front",
+    "back": "minecraft:block/observer_back"
+  }
+}

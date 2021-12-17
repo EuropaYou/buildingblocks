@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=east": {
+      "model": "buildingblocks:block/decorative_dropper",
+      "y": 90
+    },
+    "facing=north": {
+      "model": "buildingblocks:block/decorative_dropper"
+    },
+    "facing=south": {
+      "model": "buildingblocks:block/decorative_dropper",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "buildingblocks:block/decorative_dropper",
+      "y": 270
+    }
+  }
+}

@@ -60,5 +60,29 @@
     "item.buildingblocks.blast_decorative_furnace": "Decorative Blast Furnace",
 
     "block.buildingblocks.decorative_dispenser": "Decorative Dispenser",
-    "item.buildingblocks.decorative_dispenser": "Decorative Dispenser"
+    "item.buildingblocks.decorative_dispenser": "Decorative Dispenser",
+
+    "block.buildingblocks.decorative_blast_furnace": "Decorative Blast Furnace",
+    "item.buildingblocks.decorative_blast_furnace": "Decorative Blast Furnace",
+
+    "block.buildingblocks.decorative_note_block": "Decorative Note Block",
+    "item.buildingblocks.decorative_note_block": "Decorative Note Block",
+
+    "block.buildingblocks.decorative_smoker": "Decorative Smoker",
+    "item.buildingblocks.decorative_smoker": "Decorative Smoker",
+
+    "block.buildingblocks.decorative_beehive": "Decorative Beehive",
+    "item.buildingblocks.decorative_beehive": "Decorative Beehive",
+
+    "block.buildingblocks.decorative_beenest": "Decorative Bee Nest",
+    "item.buildingblocks.decorative_beenest": "Decorative Bee Nest",
+
+    "block.buildingblocks.decorative_observer": "Decorative Observer",
+    "item.buildingblocks.decorative_observer": "Decorative Observer",
+
+    "block.buildingblocks.decorative_jukebox": "Decorative Jukebox",
+    "item.buildingblocks.decorative_jukebox": "Decorative Jukebox",
+
+    "block.buildingblocks.decorative_dropper": "Decorative Dropper",
+    "item.buildingblocks.decorative_dropper": "Decorative Dropper"
 }
